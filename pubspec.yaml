@@ -10,8 +10,12 @@ dependencies:
   args: ^2.3.0
   shelf: ^1.4.0
   shelf_router: ^1.1.0
+  json_annotation: ^4.9.0
+  
 
 dev_dependencies:
-  http: ^0.13.0
-  lints: ^2.0.0
+  http: ^1.1.0
+  lints: ^4.0.0
   test: ^1.21.0
+  build_runner: ^2.4.9
+  json_serializable: ^6.8.0
